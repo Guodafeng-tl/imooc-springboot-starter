@@ -1,0 +1,8 @@
+com\imooc\controller\ThymeleafController.class
+com\imooc\controller\HelloController.class
+com\imooc\pojo\Resource.class
+META-INF\spring-configuration-metadata.json
+com\imooc\pojo\IMoocJSONResult.class
+com\imooc\pojo\User.class
+com\imooc\controller\UserController.class
+com\imooc\ImoocApplication.class
